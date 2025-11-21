@@ -4,7 +4,7 @@
 Accepted
 
 ## Context
-The team needed to select a cross-platform framework that would support the development of a clean, simple Android music player efficiently, minimizing development time and aligning with the team's skillset.
+we need to select a cross-platform framework that would support the development of a clean, simple Android music player efficiently, minimizing development time and aligning with the team's skillset.
 
 ## Decision
 The application will be built using **React Native**.
