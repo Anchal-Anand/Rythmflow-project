@@ -1,0 +1,91 @@
+/* RhythmFlow – Green Premium UI */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+body {
+  background: #F5F8F6;
+  max-width: 430px;
+  margin: auto;
+  color: #1a1a1a;
+}
+
+/* Header */
+.header {
+  background: linear-gradient(135deg, #3CC77A, #2EA865);
+  color: white;
+  text-align: center;
+  padding: 34px 20px 40px;
+  font-size: 26px;
+  font-weight: 700;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-bottom: 28px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+/* Container */
+.container {
+  padding: 20px;
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1.5px solid #cfcfcf;
+  font-size: 16px;
+  background: white;
+  margin-bottom: 20px;
+}
+
+/* Card */
+.card {
+  background: white;
+  border-radius: 18px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #e7e7e7;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.card-sub {
+  font-size: 14px;
+  color: #666;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 16px;
+  background: #3CC77A;
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* Track image */
+.track-img {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
